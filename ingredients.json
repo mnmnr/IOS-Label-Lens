@@ -1,0 +1,183 @@
+
+[
+  {
+    "name": "Aqua",
+    "aliases": ["water"],
+    "category": "Solvent",
+    "purpose": "Solvent",
+    "explanation": "Water is commonly used to dissolve or disperse other ingredients in a cosmetic formula.",
+    "note": "Its presence alone does not indicate a product's overall performance.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Glycerin",
+    "aliases": ["glycerine"],
+    "category": "Humectant",
+    "purpose": "Helps attract and retain moisture",
+    "explanation": "Glycerin is a humectant used to help the skin retain moisture.",
+    "note": "The effect depends on the full formulation and how the product is used.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Niacinamide",
+    "aliases": ["nicotinamide"],
+    "category": "Skin conditioning",
+    "purpose": "Skin conditioning",
+    "explanation": "Niacinamide is a form of vitamin B3 used in skincare formulations.",
+    "note": "Benefits depend on concentration, formulation, and individual skin response.",
+    "source": "CosIng; verify supporting claims separately"
+  },
+  {
+    "name": "Hyaluronic Acid",
+    "aliases": ["sodium hyaluronate"],
+    "category": "Humectant",
+    "purpose": "Helps retain moisture",
+    "explanation": "Hyaluronic acid and its salts are used in products designed to help maintain skin hydration.",
+    "note": "Different forms of this ingredient are not identical.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Panthenol",
+    "aliases": ["provitamin b5"],
+    "category": "Skin conditioning",
+    "purpose": "Skin conditioning",
+    "explanation": "Panthenol is a form of provitamin B5 commonly used in skin and hair care products.",
+    "note": "The benefit depends on the formulation.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Tocopherol",
+    "aliases": ["vitamin e"],
+    "category": "Antioxidant",
+    "purpose": "Antioxidant",
+    "explanation": "Tocopherol is a form of vitamin E that can help protect oils in a formulation against oxidation.",
+    "note": "This does not establish the effectiveness of the finished product on skin.",
+    "source": "CosIng; verify supporting claims separately"
+  },
+  {
+    "name": "Allantoin",
+    "aliases": [],
+    "category": "Skin conditioning",
+    "purpose": "Skin conditioning",
+    "explanation": "Allantoin is used in some cosmetic products for skin conditioning.",
+    "note": "Individual responses can vary.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Squalane",
+    "aliases": ["squalane oil"],
+    "category": "Emollient",
+    "purpose": "Helps soften skin",
+    "explanation": "Squalane is an emollient used to help soften skin and reduce the feeling of dryness.",
+    "note": "It is different from squalene.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Dimethicone",
+    "aliases": [],
+    "category": "Skin conditioning",
+    "purpose": "Skin conditioning",
+    "explanation": "Dimethicone is a silicone ingredient used to improve slip and skin feel in cosmetic products.",
+    "note": "Its role depends on the formulation.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Carbomer",
+    "aliases": [],
+    "category": "Thickener",
+    "purpose": "Controls texture and viscosity",
+    "explanation": "Carbomers are used to thicken or gel certain cosmetic formulations.",
+    "note": "This is mainly a formulation function.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Xanthan Gum",
+    "aliases": [],
+    "category": "Thickener",
+    "purpose": "Helps stabilize texture",
+    "explanation": "Xanthan gum is commonly used to thicken and stabilize products.",
+    "note": "Its role varies by formulation.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Cetearyl Alcohol",
+    "aliases": [],
+    "category": "Emollient",
+    "purpose": "Emollient and texture control",
+    "explanation": "Cetearyl alcohol is a fatty alcohol used to soften skin and help control product texture.",
+    "note": "It is not the same as ethanol or rubbing alcohol.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Stearic Acid",
+    "aliases": [],
+    "category": "Fatty acid",
+    "purpose": "Helps form and stabilize product texture",
+    "explanation": "Stearic acid is a fatty acid used in some creams, cleansers, and other cosmetic formulations.",
+    "note": "Its function depends on the formula.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Citric Acid",
+    "aliases": [],
+    "category": "pH adjuster",
+    "purpose": "Helps adjust acidity",
+    "explanation": "Citric acid is often used to adjust the pH of cosmetic formulations.",
+    "note": "Its presence alone does not reveal the final product pH.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Phenoxyethanol",
+    "aliases": [],
+    "category": "Preservative",
+    "purpose": "Helps preserve the formulation",
+    "explanation": "Phenoxyethanol is used as a preservative in many cosmetic products.",
+    "note": "The finished product's compliance and safety depend on concentration and applicable regulations.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Ethylhexylglycerin",
+    "aliases": [],
+    "category": "Skin conditioning",
+    "purpose": "Skin conditioning and formulation support",
+    "explanation": "Ethylhexylglycerin is used in some cosmetic formulations as a skin-conditioning ingredient and preservative booster.",
+    "note": "Its function depends on the formulation.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Sodium Hyaluronate",
+    "aliases": [],
+    "category": "Humectant",
+    "purpose": "Helps retain moisture",
+    "explanation": "Sodium hyaluronate is a salt of hyaluronic acid used in skincare formulations.",
+    "note": "It is related to, but not exactly the same ingredient name as, hyaluronic acid.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Zinc Oxide",
+    "aliases": [],
+    "category": "Mineral ingredient",
+    "purpose": "May function as a UV filter or provide other formulation functions",
+    "explanation": "Zinc oxide is used in cosmetics, including some sunscreens.",
+    "note": "A label alone does not establish a product's sun-protection performance.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Titanium Dioxide",
+    "aliases": [],
+    "category": "Mineral ingredient",
+    "purpose": "Colorant and, in some formulations, UV filter",
+    "explanation": "Titanium dioxide is used as a pigment and in certain sunscreen formulations.",
+    "note": "Its function depends on the product and formulation.",
+    "source": "CosIng"
+  },
+  {
+    "name": "Parfum",
+    "aliases": ["fragrance"],
+    "category": "Fragrance",
+    "purpose": "Provides scent",
+    "explanation": "Parfum is a label term for a fragrance ingredient mixture.",
+    "note": "The word alone does not identify every component of the fragrance mixture.",
+    "source": "CosIng"
+  }
+]
